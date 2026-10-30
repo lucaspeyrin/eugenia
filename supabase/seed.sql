@@ -1,0 +1,1 @@
+-- Données FICTIVES uniquement. Aucune donnée réelle dans ce fichier.
